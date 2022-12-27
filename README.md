@@ -1,5 +1,6 @@
-# Primeflix 🍿
-Uma aplicação web que consome uma api de filmes. Na aplicação, você consegue ver todos os filmes que estão em cartaz, salvar seus filmes favoritos e ver o trailer de cada filme.
+# Primeflix 
+
+Uma aplicação web que consome uma api externa de filmes. No projeto você consegue ver todos os filmes que estão em cartaz, salvar seus filmes favoritos e ver o trailer de cada filme.
 
 ## Aplicação
 
