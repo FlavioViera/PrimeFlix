@@ -2,8 +2,11 @@
 Uma aplicação web que consome uma api de filmes. Na aplicação, você consegue ver todos os filmes que estão em cartaz, salvar seus filmes favoritos e ver o trailer de cada filme.
 
 ## Aplicação
+
+Deploy do site no Netlify
+
 ### Link
-[prime-flix](https://moviestudo.netlify.app/)
+https://moviestudo.netlify.app/
 
 ## Funcionalidades
 
