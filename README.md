@@ -23,22 +23,4 @@ https://moviestudo.netlify.app/
 - [x]  Pesquisar filmes
 - [x]  Deploy da aplicação
 
-## Ferramentas
 
-### Navegação
-
-```jsx
-npm install react-router-dom
-```
-
-### Requisição HTTP
-
-```jsx
-npm install axios
-```
-
-### Alertas
-
-```jsx
-npm install --save react-toastify
-```
